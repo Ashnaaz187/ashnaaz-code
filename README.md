@@ -27,16 +27,19 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashnaaz-code&show_icons=true&theme=radical" alt="Ashnaaz's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashnaaz187&show_icons=true&theme=radical" alt="Ashnaaz's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashnaaz-code&theme=radical" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashnaaz187&theme=radical" alt="GitHub streak stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashnaaz187&theme=react-dark" alt="GitHub activity graph" />
 </p>
 
 ---
 
 ### 🌈 Featured Project
-#### 🔹 [Predictive Analytics for Dynamic Stock Portfolio Management](https://github.com/ashnaaz-code/PREDICTIVE-ANALYTICS-FOR-DYNAMIC-STOCK-PORTFOLIO-MANAGEMENT)
+#### 🔹 [Predictive Analytics for Dynamic Stock Portfolio Management](https://github.com/Ashnaaz187/PREDICTIVE-ANALYTICS-FOR-DYNAMIC-STOCK-PORTFOLIO-MANAGEMENT)
 A Python + ML-based web system that predicts short-term stock prices, analyzes portfolios, and automates investment insights using TensorFlow and Flask.
 
 ---
@@ -45,7 +48,7 @@ A Python + ML-based web system that predicts short-term stock prices, analyzes p
 - 🎓 B.E. in Information Science @ BGS College of Engineering & Technology  
 - 🥇 Certified in Machine Learning (NPTEL)  
 - 🧩 NASA International Space Apps Hackathon Participant  
-- 🧠 Volunteer, ERCICA-2024 International Conference
+- 🧠 Volunteer, ERCICA-2024 International Conference  
 
 ---
 
@@ -53,7 +56,7 @@ A Python + ML-based web system that predicts short-term stock prices, analyzes p
 <p align="center">
   <a href="mailto:1mp22is004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ashnaaz-ashfak-mujale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/ashnaaz-code"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Ashnaaz187"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
